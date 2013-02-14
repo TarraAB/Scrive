@@ -1,8 +1,10 @@
-h1. What's this?
+h2. What's this?
+
 This is a small C# wrapper around the API for Scrive, a service for electronic sending and signing of documents. You can read more about the service on the "Scrive web pages":http://scrive.com.
 
-h1. What can it do?
-The Scrive.Api assembly wraps the most important calls to the Scrive API and makes it easy-peasy to for example:
+h2. What can it do?
+
+The <pre><code>Scrive.Api</code></pre> assembly wraps the most important calls to the Scrive API and makes it easy-peasy to for example:
 
 * Create a new document from a specified template
 * Update an existing document
@@ -10,8 +12,10 @@ The Scrive.Api assembly wraps the most important calls to the Scrive API and mak
 * Download a signed document in PDF format
 * Delete a document
 
-h1. How can I use it?
+h2. How can I use it?
+
 Check out the Scrive.Example sample console application.
 
-h1. Limitations?
+h2. Limitations?
+
 This has only been tested with personal access credentials, but should work with OAuth as well, or?

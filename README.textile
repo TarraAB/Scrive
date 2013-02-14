@@ -4,7 +4,7 @@ This is a small C# wrapper around the API for Scrive, a service for electronic s
 
 h2. What can it do?
 
-The <pre><code>Scrive.Api</code></pre> assembly wraps the most important calls to the Scrive API and makes it easy-peasy to for example:
+The <code>Scrive.Api</code> assembly wraps the most important calls to the Scrive API and makes it easy-peasy to for example:
 
 * Create a new document from a specified template
 * Update an existing document
